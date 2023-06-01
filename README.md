@@ -16,7 +16,7 @@
 * Passport-Google-Oauth
 * Mongoose
    
-### Link of Project: https://rohit-chinthaparthi.github.io/Super_Hero_Project_CN/
+### Link of Project: https://nodeauthentication.onrender.com/
 
 ### Youtube Video Link: https://youtu.be/9xT2KJ7GZA8
   
